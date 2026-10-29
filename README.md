@@ -1,4 +1,4 @@
-# Abhinay Durgam AI Portfolio
+# Abhinay Durgam Portfolio
 
 Interactive data science and machine learning portfolio: a tools → skills → projects network, projects documented as model cards, and a neural network written from scratch in plain JavaScript that trains in the browser.
 
